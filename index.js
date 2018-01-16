@@ -1,5 +1,5 @@
 
-function loadIssue() {
+function loadIssues() {
   var issue = {
     state: "closed",
     number: 5,
